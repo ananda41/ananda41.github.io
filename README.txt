@@ -15,3 +15,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+Email : adityapanand@gmail.com
