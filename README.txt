@@ -1,4 +1,4 @@
-This is personal website of Aditya.
+This is personal website of Aditya P Anand
 
 
 Credits:
